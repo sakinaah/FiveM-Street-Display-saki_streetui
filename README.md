@@ -18,8 +18,7 @@ Download the resource and place it in your server's resources folder.
 
 Add the following to your server.cfg:
 
-`cfg
-ensure saki_streetui`
+`ensure saki_streetui`
 
 Copyright (c) 2025 Sakinah
 
