@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    background: transparent;
+    font-family: Arial, sans-serif;
+    color: white;
+    user-select: none;
+}
+
+#location-container {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(0,0,0,0.5);
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #48bfbfaa;
+    color: #48bfbf;
+    font-weight: 700;
+    font-size: 1.4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    user-select: none;
+    min-width: 180px;
+}
+
+#direction {
+    font-weight: 700;
+    color: #94f0f0;
+    text-shadow: 0 0 6px #94f0f0aa;
+}
+
+#street {
+    font-weight: 700;
+    color: #48bfbf;
+    text-shadow: 0 0 6px #48bfbfaa;
+}
