@@ -1,4 +1,4 @@
-<img width="422" height="122" alt="image" src="https://github.com/user-attachments/assets/46d31029-8274-4755-b0cb-8b0d5e1ed9b1" /># FiveM-Street-Display-saki_streetui
+# FiveM-Street-Display-saki_streetui
 A lightweight and minimalist FiveM script that displays your current street name and compass direction at the top of the screen.
 Perfect for roleplay servers, developer testing, or anyone who wants a clean and useful location display.
 
