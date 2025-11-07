@@ -3,7 +3,7 @@ window.addEventListener('message', (event) => {
 
     if (data.type === 'updateHUD') {
         const locContainer = document.getElementById('location-container');
-        locContainer.style.display = 'flex';  // Show container
+        locContainer.style.display = 'flex';  
 
         document.getElementById('direction').textContent = data.direction || 'N';
         document.getElementById('street').textContent = data.location || 'Unknown';
